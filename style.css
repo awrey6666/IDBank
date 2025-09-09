@@ -313,7 +313,7 @@ nav>i:hover {
 
 .slide_2 {
     background-color: #242427;
-    background-image: url(img/0.5%.png);
+    background-image: url(img/A0.5%.png);
 
 }
 
@@ -1179,4 +1179,5 @@ footer {
     display: flex;
     align-items: center;
     gap: 10px;
+
 }
